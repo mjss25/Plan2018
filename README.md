@@ -1,3 +1,4 @@
+.[].!si_sun65.png
 # Performance Plan 2018-2019
 My performance for the period 2018-2019
 
